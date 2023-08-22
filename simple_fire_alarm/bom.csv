@@ -1,0 +1,6 @@
+﻿Ad,Miktar,Bileşen
+"U2",1," Arduino Uno R3"
+"R2, R1",2,"330 Ω Rezistör"
+"D1",1,"Yeşil LED"
+"D2",1,"Kırmızı LED"
+"U1",1," Sıcaklık Sensörü [TMP36]"
